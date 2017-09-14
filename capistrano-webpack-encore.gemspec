@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = 'capistrano-webpack-encore'
-  spec.version       = '0.1.2'
+  spec.version       = '0.1.3'
   spec.authors       = ['Andy Palmer']
   spec.email         = ['andy@andypalmer.me']
   spec.description   = %q{Run webpack encore during deployment}

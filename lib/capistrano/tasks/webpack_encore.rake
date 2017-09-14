@@ -5,7 +5,7 @@ namespace :deploy do
         end
     end
 
-    after :updated do
+    task :updated do
         invoke "deploy:webpack_encore"
     end
 end
