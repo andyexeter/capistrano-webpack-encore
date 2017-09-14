@@ -1,7 +1,7 @@
 capistrano-webpack-encore
 =====================
 
-Capistrano v3.* extension to run [Webpack Encore](https://github.com/symfony/webpack-encore) during deployment.
+Capistrano v3.* extension to run Symfony's [Webpack Encore](https://github.com/symfony/webpack-encore) during deployment.
 
 ## Installation
 
